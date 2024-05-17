@@ -1,16 +1,31 @@
-### Tiago👋
+# Tiago Soares de Quadros
 
-<!--
-**Ti4goMX/Ti4goMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Resumo
 
-Here are some ideas to get you started:
+Um entusiasta da tecnologia, sempre procurando inovar e aprimorar técnicas de desenvolvimento e sempre prestativo a contribuir com o desenvolvimento da equipe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência Profissional
+
+Sem experiência na área, em busca de uma oportunidade que me ajude a desenvolver na área de programação.
+
+
+## Educação
+
+### Cursando Bacharelado em Engenharia da Computação
+**UNIFATEC PR**  
+Período: 2022 - 2026
+
+## Habilidades Técnicas
+- Linguagens de Programação: C e Python
+
+## Projetos
+
+- Alimentador automático para cães
+- Sistema de controle de lâmpadas e tomadas
+- Sistema de controle de temperatura de aquário
+-
+
+## Contato
+- Email: tquadros81@gmail.com
+- LinkedIn: Tiago Soares de Quadros
+- GitHub:https://github.com/Ti4goMX/Ti4goMX
