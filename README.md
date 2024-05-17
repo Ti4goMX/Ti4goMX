@@ -2,7 +2,7 @@
 
 ## Resumo
 
-Um entusiasta da tecnologia, sempre procurando inovar e aprimorar técnicas de desenvolvimento e sempre prestativo a contribuir com o desenvolvimento da equipe.
+Um entusiasta da tecnologia, sempre procurando inovar e aprimorar técnicas aprendidas e sempre prestativo a contribuir com o desenvolvimento da equipe.
 
 ## Experiência Profissional
 
