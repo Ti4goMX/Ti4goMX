@@ -27,5 +27,6 @@ Período: 2022 - 2026
 
 ## Contato
 - Email: tquadros81@gmail.com
-- LinkedIn: Tiago Soares de Quadros
+- LinkedIn:
+https://www.linkedin.com/in/tiago-soares-de-quadros-07ba47190
 - GitHub:https://github.com/Ti4goMX/Ti4goMX
